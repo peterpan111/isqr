@@ -1,0 +1,24 @@
+.container {
+    padding-top: 10px;
+    margin-left: 50px;
+    width: 700px;
+}
+
+.form-horizontal {
+    width: 100%;
+}
+.header {
+    font-size: 40px;
+}
+
+input[type="text"] {
+    height: 25px;
+}
+
+.navbar .nav > li > a {
+    color: #000000;
+}
+
+.form-horizontal .control-label {
+    text-align: left;
+}
